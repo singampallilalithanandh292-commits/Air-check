@@ -1,0 +1,7 @@
+City,Season,avg_pm25,avg_aqi,days
+Amaravati,Winter (Nov-Feb),62.72,136.81,338
+Amaravati,Summer (Mar-Jun),23.44,70.65,366
+Amaravati,Monsoon (Jul-Oct),20.89,67.4,247
+Visakhapatnam,Winter (Nov-Feb),68.65,150.81,481
+Visakhapatnam,Monsoon (Jul-Oct),36.98,99.67,493
+Visakhapatnam,Summer (Mar-Jun),31.02,92.81,488

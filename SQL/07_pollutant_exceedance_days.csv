@@ -1,0 +1,10 @@
+City,Year,total_days,days_poor_or_worse,days_very_poor_or_worse,pct_poor
+Amaravati,2017,38,35,1,92.1
+Amaravati,2018,356,72,0,20.2
+Amaravati,2019,318,70,7,22.0
+Amaravati,2020,180,9,0,5.0
+Visakhapatnam,2016,177,57,0,32.2
+Visakhapatnam,2017,176,85,1,48.3
+Visakhapatnam,2018,345,107,6,31.0
+Visakhapatnam,2019,353,76,16,21.5
+Visakhapatnam,2020,181,17,1,9.4

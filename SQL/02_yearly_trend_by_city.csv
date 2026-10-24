@@ -1,0 +1,10 @@
+City,Year,avg_pm25,avg_aqi,days_recorded
+Amaravati,2017,84.01,192.51,38
+Amaravati,2018,37.78,101.39,365
+Amaravati,2019,38.85,98.49,365
+Amaravati,2020,26.09,59.88,183
+Visakhapatnam,2016,44.86,103.98,184
+Visakhapatnam,2017,56.87,143.09,365
+Visakhapatnam,2018,50.43,122.82,365
+Visakhapatnam,2019,47.38,123.44,365
+Visakhapatnam,2020,32.01,84.69,183

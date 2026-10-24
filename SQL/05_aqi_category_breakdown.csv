@@ -1,0 +1,11 @@
+City,AQI_Bucket,days,pct
+Amaravati,Good,158,18.8
+Amaravati,Satisfactory,409,48.6
+Amaravati,Moderate,219,26.0
+Amaravati,Poor,47,5.6
+Amaravati,Very Poor,8,1.0
+Visakhapatnam,Good,52,4.4
+Visakhapatnam,Satisfactory,447,38.2
+Visakhapatnam,Moderate,580,49.5
+Visakhapatnam,Poor,74,6.3
+Visakhapatnam,Very Poor,18,1.5
