@@ -15,7 +15,7 @@ Python | pandas | SQL | SQLite | Tableau | Excel
 - Winter months regularly breach India's NAQI safe threshold of 60
 
 ## Dashboard
-[View on Tableau Public](PASTE YOUR TABLEAU LINK HERE)
+[View on Tableau Public](https://public.tableau.com/app/profile/singampalli.lalithanandh/viz/VisakhapatnamAirQualityAnalysis/Dashboard1)
 
 ## Data Sources
 - CPCB via Kaggle (2016-2020)
